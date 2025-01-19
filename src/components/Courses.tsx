@@ -23,10 +23,10 @@ const Courses = () => {
 		<section className='bg-gray-100 py-16'>
 			<div className='mx-auto px-6 lg:px-16 max-w-7xl'>
 				<div className='text-center mb-12 flex flex-col items-center gap-2 md:gap-4'>
-					<div className='bg-gray-200 flex pl-5 pr-2 py-3 gap-5 items-center mx-auto justify-between h-[38px] min-w-40 rounded-md mb-3'>
+					<div className='bg-gray-200 flex pl-5 pr-5 py-3 gap-5 items-center mx-auto justify-between h-[38px] min-w-40 rounded-md mb-3'>
 						<div className='h-[10px] w-[10px] rounded-full bg-sky-700'></div>
 						<p className='font-inter text-[16px]'>Учитесь вместе с нами</p>
-						<img src='../assets/vr-line.svg' alt='' loading='lazy' />
+						
 					</div>
 					<h2 className='text-3xl md:text-4xl  font-extrabold text-gray-800 mb-2'>
 						Наши Курсы
