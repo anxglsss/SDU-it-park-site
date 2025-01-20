@@ -20,6 +20,7 @@ const ContactButton = () => {
 		}, 100)
 	}
 
+
 	return (
 		<a
 			href='#feedback'
