@@ -1,9 +1,9 @@
 import React from 'react'
 import CoursesGeneral from '../components/CoursesGeneral'
 import FAQ from '../components/FAQ'
-import Feedbacks from '../components/Feedbacks'
 import LearningFormat from '../components/LearningFormat'
 import TechordaCourses from '../components/TechordaCourses'
+import TeachersSection from '../components/TeachersSection'
 
 const CoursesPage: React.FC = () => {
 	return (
@@ -11,8 +11,8 @@ const CoursesPage: React.FC = () => {
 			<CoursesGeneral />
 			<LearningFormat />
 			<TechordaCourses />
+			<TeachersSection/>
 			<FAQ />
-			<Feedbacks />
 		</>
 	)
 }

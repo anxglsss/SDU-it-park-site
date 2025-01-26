@@ -4,10 +4,7 @@ const LearningFormat = () => {
 	return (
 		<section id='format' className='py-16 px-4 md:px-16 lg:px-20 bg-white'>
 			<div className='max-w-6xl mx-auto flex flex-col items-center gap-4'>
-				<div className='bg-gray-200 flex pl-5 pr-5 py-3 gap-5 items-center justify-between h-[38px] min-w-40 rounded-md mb-3'>
-					<div className='h-[10px] w-[10px] rounded-full bg-sky-700'></div>
-					<p className='font-inter text-[16px]'>Как мы обучаем?</p>
-				</div>
+				
 
 				<h2 className='text-3xl md:text-4xl font-bold text-gray-800 flex items-center gap-3 mb-4'>
 					Формат обучения

@@ -4,13 +4,9 @@ const FAQ = () => {
 	return (
 		<section className='py-16 px-6 md:px-16 bg-gray-100'>
 			<div className='max-w-6xl mx-auto flex flex-col items-center gap-4'>
-				<div className='bg-gray-200 flex pl-5 pr-5 py-3 gap-5 items-center justify-between h-[38px] min-w-40 rounded-md mb-3'>
-					<div className='h-[10px] w-[10px] rounded-full bg-sky-700'></div>
-					<p className='font-inter text-[16px]'>Ответы на вопросы</p>
-				</div>
+				
 				<h2 className='text-3xl md:text-4xl font-bold text-gray-800 flex items-center gap-3 mb-4'>
 					FAQ
-					<HelpCircle size={32} className='text-sky-700' />
 				</h2>
 				<p className='text-lg text-gray-600 text-center max-w-3xl mx-auto mb-12'>
 					Ниже приведены часто задаваемые вопросы, которые помогут вам понять,

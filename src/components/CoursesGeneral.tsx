@@ -6,10 +6,7 @@ const CoursesGeneral = () => {
 			<div className='max-w-7xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-12'>
 				<div className='flex flex-col items-center lg:items-start justify-between gap-3'>
 					<div className='flex flex-col gap-3 items-center lg:items-start'>
-						<div className='bg-gray-200 flex pl-5 pr-5 py-3 gap-5 items-center justify-between h-[38px] min-w-40 rounded-md mb-3'>
-							<div className='h-[10px] w-[10px] rounded-full bg-sky-700'></div>
-							<p className='font-inter text-[16px]'>Учитесь вместе с нами</p>
-						</div>
+						
 
 						<h2 className='text-3xl md:text-4xl font-bold text-gray-800 flex items-center gap-3 mb-4'>
 							Страница Курсов
